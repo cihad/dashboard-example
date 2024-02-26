@@ -1,0 +1,18 @@
+
+.root {
+    display: flex;
+  width: 189px;
+  padding: 10px 15px;
+  align-items: center;
+  gap: 10px;
+  border-radius: 6px;
+}
+
+.menuItem {
+    color: #000;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
